@@ -1,7 +1,7 @@
 ### Hi there, I'm Colin aka Coulange 👋
 ---
 
-## I'm a Developer, Fiance and [Business Owner][srsbsns] 
+## I'm a [CTO][CTOLink] @ [Black Swan][BlackSwan], Developer, Husband and [Business Owner][srsbsns] 
 
 - 🔭 I’m currently working on many things
 - 🌱 I’m currently learning every thing [Symfony Casts][sfcasts]
@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 [sfcasts]: https://symfonycasts.com/
 [srsbsns]: https://srsbsns.co.za
 [twitter]: https://twitter.com/coulangees
+[CTOLink]: https://github.com/BlackSwan-Technology-Holdings
+[BlackSwan]: https://blackswan.tech
