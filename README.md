@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on many things
 - 🌱 I’m currently learning every thing [Symfony Casts][sfcasts]
 - 👯 I’m looking to collaborate on any cool web projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything Dev
 - 📫 How to reach me: [@coulangees][twitter]
 - ⚡ Fun fact: ...
