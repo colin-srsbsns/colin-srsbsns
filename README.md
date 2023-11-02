@@ -1,12 +1,12 @@
 ### Hi there, I'm Colin aka Coulange 👋
 ---
 
-## I'm a [CTO][CTOLink] @ [Black Swan][BlackSwan], Developer, Husband and [Business Owner][srsbsns] 
+## I'm a [CEO][CTOLink], Developer, Husband and [Business Owner][srsbsns] 
 
 - 🔭 I’m currently working on many things
 - 🌱 I’m currently learning every thing [Symfony Casts][sfcasts]
 - 👯 I’m looking to collaborate on any cool web projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything Dev
 - 📫 How to reach me: [@coulangees][twitter]
 - ⚡ Fun fact: ...
@@ -36,5 +36,4 @@ Here are some ideas to get you started:
 [sfcasts]: https://symfonycasts.com/
 [srsbsns]: https://srsbsns.co.za
 [twitter]: https://twitter.com/coulangees
-[CTOLink]: https://github.com/BlackSwan-Technology-Holdings
-[BlackSwan]: https://blackswan.tech
+[CTOLink]: https://github.com/SrsBsnsZA
